@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# DSCI 100 Group Project: Pulsar Star
+DSCI 100 group project repository
